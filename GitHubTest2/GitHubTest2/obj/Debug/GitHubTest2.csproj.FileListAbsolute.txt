@@ -1,0 +1,10 @@
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\bin\Debug\GitHubTest2.exe.config
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\bin\Debug\GitHubTest2.exe
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\bin\Debug\GitHubTest2.pdb
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\obj\Debug\GitHubTest2.csproj.AssemblyReference.cache
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\obj\Debug\GitHubTest2.Form1.resources
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\obj\Debug\GitHubTest2.Properties.Resources.resources
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\obj\Debug\GitHubTest2.csproj.GenerateResource.cache
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\obj\Debug\GitHubTest2.csproj.CoreCompileInputs.cache
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\obj\Debug\GitHubTest2.exe
+C:\Users\terre\OneDrive\Desktop\Coding Stuff 3\GitHubTest\GitHubTest2\GitHubTest2\obj\Debug\GitHubTest2.pdb
