@@ -50,5 +50,10 @@ namespace GitHubTest2
         {
             this.Close();
         }
+
+        private void btnTerrellP_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add("Terrell Peatry");
+        }
     }
 }
